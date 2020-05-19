@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connect-melbournecbd.pineapple.com.au/browserconfig.xml"
   },
   {
-    "revision": "5f562736d602f2e6ec3e",
-    "url": "/connect-melbournecbd.pineapple.com.au/css/app.e22675b9.css"
+    "revision": "c6ef7b071b6897c8b6a6",
+    "url": "/connect-melbournecbd.pineapple.com.au/css/app.9dc09d4f.css"
   },
   {
-    "revision": "2024d7449db113469923",
-    "url": "/connect-melbournecbd.pineapple.com.au/css/chunk-vendors.130c17c7.css"
+    "revision": "28a94a44c30c285589da",
+    "url": "/connect-melbournecbd.pineapple.com.au/css/chunk-vendors.a06ccea4.css"
   },
   {
     "revision": "3ee088ebf456531c3c79586af139b62f",
@@ -372,6 +372,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connect-melbournecbd.pineapple.com.au/img/family-small-2.png"
   },
   {
+    "revision": "9c96e0ed7093c095fd33870329282962",
+    "url": "/connect-melbournecbd.pineapple.com.au/img/flags.9c96e0ed.9c96e0ed.png"
+  },
+  {
     "revision": "798ae4e8aa1c261663f7bce3e05e116c",
     "url": "/connect-melbournecbd.pineapple.com.au/img/linkedin.798ae4e8.svg"
   },
@@ -448,16 +452,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connect-melbournecbd.pineapple.com.au/img/testimonials/default.png"
   },
   {
-    "revision": "046b5111b906fe06f5777fb171c16c55",
+    "revision": "4fd24ea4af6fc67a5bef4de8893c143c",
     "url": "/connect-melbournecbd.pineapple.com.au/index.html"
   },
   {
-    "revision": "5f562736d602f2e6ec3e",
-    "url": "/connect-melbournecbd.pineapple.com.au/js/app.802fa9f8.js"
+    "revision": "c6ef7b071b6897c8b6a6",
+    "url": "/connect-melbournecbd.pineapple.com.au/js/app.0c063227.js"
   },
   {
-    "revision": "2024d7449db113469923",
-    "url": "/connect-melbournecbd.pineapple.com.au/js/chunk-vendors.4cb80117.js"
+    "revision": "28a94a44c30c285589da",
+    "url": "/connect-melbournecbd.pineapple.com.au/js/chunk-vendors.60d5c778.js"
   },
   {
     "revision": "e478d8985e76192e58deb6deb932552b",
