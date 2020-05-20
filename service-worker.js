@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/connect-melbournecbd.pineapple.com.au/precache-manifest.1ae480c16d73bb72a6058e99b4f865f0.js"
+  "/connect-melbournecbd.pineapple.com.au/precache-manifest.54b42bd2f747a1958eba631156d4f66c.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "pineapple-land-2"});
+workbox.core.setCacheNameDetails({prefix: "connect-melbournecbd.pineapple.com.au"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
