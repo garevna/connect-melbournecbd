@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connect-melbournecbd.pineapple.com.au/browserconfig.xml"
   },
   {
-    "revision": "d001dcad2e89301870d9",
-    "url": "/connect-melbournecbd.pineapple.com.au/css/app.106d94c8.css"
+    "revision": "028f6f7e73d6c54f96aa",
+    "url": "/connect-melbournecbd.pineapple.com.au/css/app.1faa486b.css"
   },
   {
     "revision": "28a94a44c30c285589da",
@@ -336,8 +336,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connect-melbournecbd.pineapple.com.au/fonts/materialdesignicons-webfont.f5111234.ttf"
   },
   {
-    "revision": "ada5061dc20107863af0d42cbf567dda",
-    "url": "/connect-melbournecbd.pineapple.com.au/img/dgtek-logo.ada5061d.png"
+    "revision": "992dc132a88db5cbc2c9c37b07e185d8",
+    "url": "/connect-melbournecbd.pineapple.com.au/img/dgtek-logo.992dc132.svg"
   },
   {
     "revision": "ada5061dc20107863af0d42cbf567dda",
@@ -452,12 +452,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connect-melbournecbd.pineapple.com.au/img/testimonials/default.png"
   },
   {
-    "revision": "3bf845d9687196b2105afcabedf1e42e",
+    "revision": "c629013e9b021f4228570fc5b66b4906",
     "url": "/connect-melbournecbd.pineapple.com.au/index.html"
   },
   {
-    "revision": "d001dcad2e89301870d9",
-    "url": "/connect-melbournecbd.pineapple.com.au/js/app.bf7bbe24.js"
+    "revision": "028f6f7e73d6c54f96aa",
+    "url": "/connect-melbournecbd.pineapple.com.au/js/app.92798343.js"
   },
   {
     "revision": "28a94a44c30c285589da",
