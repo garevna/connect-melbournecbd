@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connect-melbournecbd.pineapple.com.au/browserconfig.xml"
   },
   {
-    "revision": "bde217b303be6e6d6ad9",
-    "url": "/connect-melbournecbd.pineapple.com.au/css/app.02e8e76e.css"
+    "revision": "901fd98680cdd8467ef4",
+    "url": "/connect-melbournecbd.pineapple.com.au/css/app.f6112ae7.css"
   },
   {
     "revision": "28a94a44c30c285589da",
@@ -452,12 +452,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connect-melbournecbd.pineapple.com.au/img/testimonials/default.png"
   },
   {
-    "revision": "ddd765970ff8142ed38cdcd354045591",
+    "revision": "11db92cbe184fec5ad5befeec6c780b1",
     "url": "/connect-melbournecbd.pineapple.com.au/index.html"
   },
   {
-    "revision": "bde217b303be6e6d6ad9",
-    "url": "/connect-melbournecbd.pineapple.com.au/js/app.4b2f7de0.js"
+    "revision": "901fd98680cdd8467ef4",
+    "url": "/connect-melbournecbd.pineapple.com.au/js/app.a1144230.js"
   },
   {
     "revision": "28a94a44c30c285589da",
