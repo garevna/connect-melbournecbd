@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/connect-melbournecbd/precache-manifest.9506cea01409670c4f5e94910a7a0e0a.js"
+  "/connect-melbournecbd/precache-manifest.6ccb36bdada97470fc8526a73f7ef230.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "connect-melbournecbd"});
