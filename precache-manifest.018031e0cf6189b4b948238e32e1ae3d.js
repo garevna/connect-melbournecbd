@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connect-melbournecbd/browserconfig.xml"
   },
   {
-    "revision": "031d2da07c4642a1e8a6",
+    "revision": "b3ffae0ccff9a298d53d",
     "url": "/connect-melbournecbd/css/app.ae6b18bd.css"
   },
   {
@@ -452,12 +452,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connect-melbournecbd/img/testimonials/default.png"
   },
   {
-    "revision": "73cb074f0f09dda14618c14557a8fb71",
+    "revision": "cd55124e0ca6e8d40a52f616a7a1ee72",
     "url": "/connect-melbournecbd/index.html"
   },
   {
-    "revision": "031d2da07c4642a1e8a6",
-    "url": "/connect-melbournecbd/js/app.aa77f273.js"
+    "revision": "b3ffae0ccff9a298d53d",
+    "url": "/connect-melbournecbd/js/app.fdeda922.js"
   },
   {
     "revision": "28a94a44c30c285589da",
