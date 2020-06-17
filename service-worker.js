@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/connect-melbournecbd/precache-manifest.018031e0cf6189b4b948238e32e1ae3d.js"
+  "/connect-melbournecbd/precache-manifest.c9e423ad61e75590225d8a33e21e8985.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "connect-melbournecbd"});
+workbox.core.setCacheNameDetails({prefix: "connect-melbournecbd.pineapple.net.au"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {

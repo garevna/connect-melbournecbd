@@ -20,12 +20,88 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connect-melbournecbd/browserconfig.xml"
   },
   {
-    "revision": "b3ffae0ccff9a298d53d",
-    "url": "/connect-melbournecbd/css/app.ae6b18bd.css"
+    "revision": "4b2af615b0bc9d3616e5607552bebeb2",
+    "url": "/connect-melbournecbd/buildings/QV1-1.jpg"
   },
   {
-    "revision": "28a94a44c30c285589da",
-    "url": "/connect-melbournecbd/css/chunk-vendors.a06ccea4.css"
+    "revision": "1470c776c724fd41d7aa0afbe417d978",
+    "url": "/connect-melbournecbd/buildings/QV1-2.jpg"
+  },
+  {
+    "revision": "7950c9379f4a2c91bb4bac358cbfcd9f",
+    "url": "/connect-melbournecbd/buildings/QV1-3.jpg"
+  },
+  {
+    "revision": "d15a2905b47b1dfe532b3f2e760dcc26",
+    "url": "/connect-melbournecbd/buildings/aurora-1.jpg"
+  },
+  {
+    "revision": "1837fa0e49bdcc357892656353b754f9",
+    "url": "/connect-melbournecbd/buildings/aurora-2.jpg"
+  },
+  {
+    "revision": "2fde5aad34acca771ab395d79c1dff29",
+    "url": "/connect-melbournecbd/buildings/conservatory-1.jpg"
+  },
+  {
+    "revision": "1f9b5fe911f4cfc8ad103efad38fbf25",
+    "url": "/connect-melbournecbd/buildings/melbourne-1.jpg"
+  },
+  {
+    "revision": "f8175cc3a7f21b5d42db816b585687cd",
+    "url": "/connect-melbournecbd/buildings/melbourne-large-1.jpg"
+  },
+  {
+    "revision": "f9039de2862d65b2f8c58974fc526f48",
+    "url": "/connect-melbournecbd/buildings/melbourne-large-2.jpg"
+  },
+  {
+    "revision": "a242a81f99da6837707d90a57ce59341",
+    "url": "/connect-melbournecbd/buildings/melbourne-large-3.jpeg"
+  },
+  {
+    "revision": "1b53bec17eabd1ed1cd4ac6c66c806d5",
+    "url": "/connect-melbournecbd/buildings/melbourne-tallest-buildings.jpg"
+  },
+  {
+    "revision": "4568a43f8f2c9cf06fdcb0807e46d479",
+    "url": "/connect-melbournecbd/buildings/melbourne.jpg"
+  },
+  {
+    "revision": "cf95d4e2809fafa202e4",
+    "url": "/connect-melbournecbd/css/app.8d3119fa.css"
+  },
+  {
+    "revision": "ab3898f60cc46d8ca6e1",
+    "url": "/connect-melbournecbd/css/chunk-vendors.c9d6c76d.css"
+  },
+  {
+    "revision": "fa9907f354b904183af2",
+    "url": "/connect-melbournecbd/css/home.c69aa81b.css"
+  },
+  {
+    "revision": "2472f2983db2294c4981",
+    "url": "/connect-melbournecbd/css/home.page-1.page-2.page-3.page-4.f120b5b5.css"
+  },
+  {
+    "revision": "8fe45b5c033de71f8dd4",
+    "url": "/connect-melbournecbd/css/page-1.11931a83.css"
+  },
+  {
+    "revision": "04ffee64981cbefab0bc",
+    "url": "/connect-melbournecbd/css/page-1.page-2.page-3.page-4.8f1127f4.css"
+  },
+  {
+    "revision": "e23cf866fce0f69dca03",
+    "url": "/connect-melbournecbd/css/page-2.11931a83.css"
+  },
+  {
+    "revision": "8704a92b8e00e4758044",
+    "url": "/connect-melbournecbd/css/page-3.11931a83.css"
+  },
+  {
+    "revision": "883aaaa1f42c7103ca16",
+    "url": "/connect-melbournecbd/css/page-4.f1872ee1.css"
   },
   {
     "revision": "3ee088ebf456531c3c79586af139b62f",
@@ -452,19 +528,47 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connect-melbournecbd/img/testimonials/default.png"
   },
   {
-    "revision": "cd55124e0ca6e8d40a52f616a7a1ee72",
+    "revision": "381e3a8f5f5c2fe8b7531c743bf21846",
     "url": "/connect-melbournecbd/index.html"
   },
   {
-    "revision": "b3ffae0ccff9a298d53d",
-    "url": "/connect-melbournecbd/js/app.fdeda922.js"
+    "revision": "cf95d4e2809fafa202e4",
+    "url": "/connect-melbournecbd/js/app.e6ffc09b.js"
   },
   {
-    "revision": "28a94a44c30c285589da",
-    "url": "/connect-melbournecbd/js/chunk-vendors.60d5c778.js"
+    "revision": "ab3898f60cc46d8ca6e1",
+    "url": "/connect-melbournecbd/js/chunk-vendors.bc6b4354.js"
   },
   {
-    "revision": "288ed6a52a2b11795c2b50cda41eef0d",
+    "revision": "fa9907f354b904183af2",
+    "url": "/connect-melbournecbd/js/home.c3a14143.js"
+  },
+  {
+    "revision": "2472f2983db2294c4981",
+    "url": "/connect-melbournecbd/js/home.page-1.page-2.page-3.page-4.4bbe8fc4.js"
+  },
+  {
+    "revision": "8fe45b5c033de71f8dd4",
+    "url": "/connect-melbournecbd/js/page-1.f7ea0d06.js"
+  },
+  {
+    "revision": "04ffee64981cbefab0bc",
+    "url": "/connect-melbournecbd/js/page-1.page-2.page-3.page-4.3f5b450b.js"
+  },
+  {
+    "revision": "e23cf866fce0f69dca03",
+    "url": "/connect-melbournecbd/js/page-2.698e347a.js"
+  },
+  {
+    "revision": "8704a92b8e00e4758044",
+    "url": "/connect-melbournecbd/js/page-3.b3ad752f.js"
+  },
+  {
+    "revision": "883aaaa1f42c7103ca16",
+    "url": "/connect-melbournecbd/js/page-4.b338b66a.js"
+  },
+  {
+    "revision": "15b453ac6c752de4c035c6137059914c",
     "url": "/connect-melbournecbd/manifest.json"
   },
   {
