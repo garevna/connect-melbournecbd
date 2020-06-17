@@ -68,7 +68,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connect-melbournecbd/buildings/melbourne.jpg"
   },
   {
-    "revision": "cf95d4e2809fafa202e4",
+    "revision": "b074a22a593a46a609f2",
     "url": "/connect-melbournecbd/css/app.8d3119fa.css"
   },
   {
@@ -528,12 +528,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connect-melbournecbd/img/testimonials/default.png"
   },
   {
-    "revision": "381e3a8f5f5c2fe8b7531c743bf21846",
+    "revision": "409a82025bb629f33345e99487ea1723",
     "url": "/connect-melbournecbd/index.html"
   },
   {
-    "revision": "cf95d4e2809fafa202e4",
-    "url": "/connect-melbournecbd/js/app.e6ffc09b.js"
+    "revision": "b074a22a593a46a609f2",
+    "url": "/connect-melbournecbd/js/app.c36bda0b.js"
   },
   {
     "revision": "ab3898f60cc46d8ca6e1",
