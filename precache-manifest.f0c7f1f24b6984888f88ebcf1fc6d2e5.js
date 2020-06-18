@@ -68,35 +68,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connect-melbournecbd/buildings/melbourne.jpg"
   },
   {
-    "revision": "789269fe5af20bdb8672",
-    "url": "/connect-melbournecbd/css/app.8d3119fa.css"
+    "revision": "a33ede543d1b2dfd6014",
+    "url": "/connect-melbournecbd/css/app.29c15295.css"
   },
   {
     "revision": "ab3898f60cc46d8ca6e1",
     "url": "/connect-melbournecbd/css/chunk-vendors.c9d6c76d.css"
   },
   {
-    "revision": "d963da81e284a49e2074",
-    "url": "/connect-melbournecbd/css/home.c69aa81b.css"
+    "revision": "cb2489c864fefa3738cc",
+    "url": "/connect-melbournecbd/css/home.b0e9d493.css"
   },
   {
-    "revision": "2472f2983db2294c4981",
-    "url": "/connect-melbournecbd/css/home.page-1.page-2.page-3.page-4.f120b5b5.css"
+    "revision": "78eb0688609150b693df",
+    "url": "/connect-melbournecbd/css/home.page-1.page-2.page-3.page-4.d4e03ac9.css"
   },
   {
-    "revision": "2e5efd2a71fd5b093966",
+    "revision": "3785566a4a8820d030c1",
     "url": "/connect-melbournecbd/css/page-1.11931a83.css"
   },
   {
-    "revision": "c495cb221d219fcfea72",
-    "url": "/connect-melbournecbd/css/page-1.page-2.page-3.page-4.d3c9a9b8.css"
+    "revision": "3b3f91f8904e2dc40aee",
+    "url": "/connect-melbournecbd/css/page-1.page-2.page-3.page-4.a6bd51b4.css"
   },
   {
-    "revision": "5e4c71eddb9aafa3b62c",
+    "revision": "0820f2a7ffe9e9a7e5c4",
     "url": "/connect-melbournecbd/css/page-2.11931a83.css"
   },
   {
-    "revision": "380bcd96db68b1211c6b",
+    "revision": "e0d924117cda1d76f8e0",
     "url": "/connect-melbournecbd/css/page-3.11931a83.css"
   },
   {
@@ -412,6 +412,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connect-melbournecbd/fonts/materialdesignicons-webfont.f5111234.ttf"
   },
   {
+    "revision": "0f6246a959f5e411fc59e31a1ddc3010",
+    "url": "/connect-melbournecbd/img/dgtek-logo-white.0f6246a9.svg"
+  },
+  {
     "revision": "992dc132a88db5cbc2c9c37b07e185d8",
     "url": "/connect-melbournecbd/img/dgtek-logo.992dc132.svg"
   },
@@ -528,40 +532,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connect-melbournecbd/img/testimonials/default.png"
   },
   {
-    "revision": "91cee539d15baf6235308fa0fc6aed24",
+    "revision": "5aaaa22bb15207db3a2ce4eeb0c29bb7",
     "url": "/connect-melbournecbd/index.html"
   },
   {
-    "revision": "789269fe5af20bdb8672",
-    "url": "/connect-melbournecbd/js/app.b0510eba.js"
+    "revision": "a33ede543d1b2dfd6014",
+    "url": "/connect-melbournecbd/js/app.8746d2c3.js"
   },
   {
     "revision": "ab3898f60cc46d8ca6e1",
     "url": "/connect-melbournecbd/js/chunk-vendors.bc6b4354.js"
   },
   {
-    "revision": "d963da81e284a49e2074",
-    "url": "/connect-melbournecbd/js/home.3ad216d1.js"
+    "revision": "cb2489c864fefa3738cc",
+    "url": "/connect-melbournecbd/js/home.50347748.js"
   },
   {
-    "revision": "2472f2983db2294c4981",
-    "url": "/connect-melbournecbd/js/home.page-1.page-2.page-3.page-4.4bbe8fc4.js"
+    "revision": "78eb0688609150b693df",
+    "url": "/connect-melbournecbd/js/home.page-1.page-2.page-3.page-4.b20fb2c2.js"
   },
   {
-    "revision": "2e5efd2a71fd5b093966",
-    "url": "/connect-melbournecbd/js/page-1.a07ba411.js"
+    "revision": "3785566a4a8820d030c1",
+    "url": "/connect-melbournecbd/js/page-1.9bf6cb0b.js"
   },
   {
-    "revision": "c495cb221d219fcfea72",
-    "url": "/connect-melbournecbd/js/page-1.page-2.page-3.page-4.14019a43.js"
+    "revision": "3b3f91f8904e2dc40aee",
+    "url": "/connect-melbournecbd/js/page-1.page-2.page-3.page-4.50ea8cf7.js"
   },
   {
-    "revision": "5e4c71eddb9aafa3b62c",
-    "url": "/connect-melbournecbd/js/page-2.7cc18469.js"
+    "revision": "0820f2a7ffe9e9a7e5c4",
+    "url": "/connect-melbournecbd/js/page-2.4cba328a.js"
   },
   {
-    "revision": "380bcd96db68b1211c6b",
-    "url": "/connect-melbournecbd/js/page-3.4f0b48c2.js"
+    "revision": "e0d924117cda1d76f8e0",
+    "url": "/connect-melbournecbd/js/page-3.e8080b42.js"
   },
   {
     "revision": "883aaaa1f42c7103ca16",
